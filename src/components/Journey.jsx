@@ -69,7 +69,7 @@ export default function Journey() {
             className="rounded-[2rem] border border-[#E2E8E0] bg-white p-8 shadow-[0_30px_90px_rgba(15,25,16,0.08)]"
           >
             <p className="text-sm uppercase tracking-[0.35em] text-[#1B5E3F]">Field highlight</p>
-            <h3 className="mt-4 text-3xl font-semibold text-[#0F1D18]">Help Lab in motion</h3>
+            <h3 className="mt-4 text-3xl font-semibold text-[#0F1D18]">Let's take a look</h3>
             <p className="mt-5 text-[#4E6A5A] leading-7">
               See our community-centered action in the lab, where youth learning meets practical farming impact.
             </p>
