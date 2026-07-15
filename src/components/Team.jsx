@@ -100,7 +100,7 @@ export default function Team() {
                   className="snap-start min-w-[320px] flex-none rounded-[2rem] border border-[#E2E8E0] bg-[#F9FBF8] p-6 shadow-[0_20px_50px_rgba(15,25,16,0.08)] transition-transform"
                 >
                   <div className="overflow-hidden rounded-[1.75rem] border border-[#D9E8D9]/60 bg-white">
-                    <img src={member.image} alt={member.name} className="h-56 w-full object-cover" />
+                    <img src={member.image} alt={member.name} className="h-56 w-full object-contain" />
                   </div>
                   <div className="mt-5 space-y-3">
                     <p className="text-xs uppercase tracking-[0.35em] text-[#1B5E3F]">{member.role}</p>
