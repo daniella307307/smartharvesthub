@@ -4,6 +4,8 @@ import teamPhoto1 from '../assets/images/vicky.jpeg'
 import teamPhoto2 from '../assets/images/davud.jpeg'
 import teamPhoto3 from '../assets/images/ismael.jpeg'
 import teamphoto4 from '../assets/images/daniella.jpeg'
+import teamPhoto5 from '../assets/images/BELINDA.png'
+import teamPhoto6 from '../assets/images/WhatsApp Image 2026-06-18 at 01.58.43.jpeg'
 
 
 const team = [
@@ -35,13 +37,13 @@ const team = [
     name: 'Belinda Mutoni',
     role: 'Digital marketing',
     mission: 'Promoting SmartHarvest and its impact online.',
-    image: teamPhoto2,
+    image: teamPhoto5,
   },
   {
     name: 'Aguet Bior',
     role: 'Operations support',
     mission: 'Ensuring smooth program delivery and logistics.',
-    image: teamPhoto3,
+    image: teamPhoto6,
   },
 ]
 
