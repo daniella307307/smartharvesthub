@@ -74,7 +74,7 @@ export default function Journey() {
               See our community-centered action in the lab, where youth learning meets practical farming impact.
             </p>
             <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8D9]/70 bg-[#000] aspect-[16/9]">
-              <YouTubeEmbed videoId="OHfaAlrtUbs" title="SmartHarvest field preview" />
+              <YouTubeEmbed videoId="BFy9EKQCVPc" title="SmartHarvest field preview" />
             </div>
           </motion.div>
 
