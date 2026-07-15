@@ -3,7 +3,7 @@ import YouTubeEmbed from './YouTubeEmbed'
 import challengePhoto1 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54.38.jpeg'
 import challengePhoto2 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54.38 (1).jpeg'
 import challengePhoto3 from '../assets/images/WhatsApp Image 2026-06-18 at 01.58.43.jpeg'
-import localVideoA from '../assets/video/ALU FINAL .mp4'
+
 const challenges = [
   {
     number: '01',
@@ -72,7 +72,7 @@ export default function Journey() {
               See our community-centered action in the lab, where youth learning meets practical farming impact.
             </p>
             <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8D9]/70 bg-[#000] aspect-[16/9]">
-              <video src={localVideoA} controls className="h-full w-full object-cover bg-black" />
+              <YouTubeEmbed videoId="OHfaAlrtUbs" title="SmartHarvest field preview" />
             </div>
           </motion.div>
 

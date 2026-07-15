@@ -4,8 +4,7 @@ import teamPhoto1 from '../assets/images/vicky.jpeg'
 import teamPhoto2 from '../assets/images/davud.jpeg'
 import teamPhoto3 from '../assets/images/ismael.jpeg'
 import teamphoto4 from '../assets/images/daniella.jpeg'
-import localVideoA from '../assets/video/ALU FINAL .mp4'
-import localVideoB from '../assets/video/KAZUBA video .mp4'
+
 
 const team = [
   {
@@ -118,7 +117,7 @@ export default function Team() {
             <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">ALU field film</h3>
             <p className="mt-3 text-[#4E6A5A]">A raw preview from our learning journey in the field.</p>
             <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8E0] bg-[#000] aspect-[16/9]">
-              <video src={localVideoA} controls className="h-full w-full object-cover bg-black" />
+              <YouTubeEmbed videoId="OHfaAlrtUbs" title="SmartHarvest field preview" />
             </div>
           </article>
           <article className="rounded-[2rem] border border-[#E2E8E0] bg-white p-8 shadow-[0_24px_70px_rgba(15,25,16,0.08)]">
@@ -126,7 +125,7 @@ export default function Team() {
             <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">KAZUBA community story</h3>
             <p className="mt-3 text-[#4E6A5A]">A short video highlight from our most recent support work.</p>
             <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8E0] bg-[#000] aspect-[16/9]">
-              <video src={localVideoB} controls className="h-full w-full object-cover bg-black" />
+              <YouTubeEmbed videoId="KAZUBA_video_id" title="KAZUBA community story" />
             </div>
           </article>
         </div>
