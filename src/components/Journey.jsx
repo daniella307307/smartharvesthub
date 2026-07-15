@@ -4,6 +4,7 @@ import challengePhoto1 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54
 import challengePhoto2 from '../assets/images/WhatsApp Image 2026-07-15 at 20.57.15.jpeg'
 import challengePhoto3 from '../assets/images/WhatsApp Image 2026-06-18 at 01.58.43.jpeg'
 import challengePhoto4 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54.38 (1).jpeg'
+import challengePhoto5 from '../assets/images/WhatsApp Image 2026-07-15 at 20.57.07 (1).jpeg'
 
 const challenges = [
   {
@@ -28,7 +29,7 @@ const challenges = [
     number: '04',
     title: 'Hunt for Treasure',
     description: 'We interviewed a leading agricultural entrepreneur to learn how real farms operate, what skills matter, and where opportunity already exists.',
-    photo: challengePhoto2,
+    photo: challengePhoto5,
   },
   {
     number: '05',
