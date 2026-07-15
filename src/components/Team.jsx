@@ -119,15 +119,23 @@ export default function Team() {
             <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">ALU field film</h3>
             <p className="mt-3 text-[#4E6A5A]">A raw preview from our learning journey in the field.</p>
             <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8E0] bg-[#000] aspect-[16/9]">
-              <YouTubeEmbed videoId="OHfaAlrtUbs" title="SmartHarvest field preview" />
+              <YouTubeEmbed videoId="BFy9EKQCVPc" title="SmartHarvest field preview" />
             </div>
           </article>
           <article className="rounded-[2rem] border border-[#E2E8E0] bg-white p-8 shadow-[0_24px_70px_rgba(15,25,16,0.08)]">
             <p className="text-sm uppercase tracking-[0.35em] text-[#1B5E3F]">Local preview</p>
-            <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">KAZUBA community story</h3>
+            <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">Hunt For treasures</h3>
             <p className="mt-3 text-[#4E6A5A]">A short video highlight from our most recent support work.</p>
             <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8E0] bg-[#000] aspect-[16/9]">
-              <YouTubeEmbed videoId="KAZUBA_video_id" title="KAZUBA community story" />
+              <YouTubeEmbed videoId="IQspHTgB3-s" title="Meet the Leaders" />
+            </div>
+          </article>
+           <article className="rounded-[2rem] border border-[#E2E8E0] bg-white p-8 shadow-[0_24px_70px_rgba(15,25,16,0.08)]">
+            <p className="text-sm uppercase tracking-[0.35em] text-[#1B5E3F]">Local preview</p>
+            <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">Launch Your Solution</h3>
+            <p className="mt-3 text-[#4E6A5A]">A short video highlight from our most recent support work.</p>
+            <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8E0] bg-[#000] aspect-[16/9]">
+              <YouTubeEmbed videoId="NVHFlP3-kBU" title="Launch Your Solution" />
             </div>
           </article>
         </div>

@@ -32,7 +32,7 @@ export default function Mission() {
           <h3 className="mt-3 text-2xl font-semibold text-[#0F1D18]">Help Lab community impact</h3>
           <p className="mt-3 max-w-2xl text-[#4E6A5A]">Watch the Help Lab session that shows our community-driven training in motion.</p>
           <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8E0] bg-[#000] aspect-[16/9]">
-            <YouTubeEmbed videoId="IQspHTgB3-s" title="Help Lab community impact" />
+            <YouTubeEmbed videoId="voLwNCM7E2E" title="Help Lab community impact" />
           </div>
         </div>
       </div>

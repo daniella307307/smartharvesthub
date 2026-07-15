@@ -1,8 +1,9 @@
 import { motion, useReducedMotion } from 'framer-motion'
 import YouTubeEmbed from './YouTubeEmbed'
 import challengePhoto1 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54.38.jpeg'
-import challengePhoto2 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54.38 (1).jpeg'
+import challengePhoto2 from '../assets/images/WhatsApp Image 2026-07-15 at 20.57.15.jpeg'
 import challengePhoto3 from '../assets/images/WhatsApp Image 2026-06-18 at 01.58.43.jpeg'
+import challengePhoto4 from '../assets/images/WhatsApp Image 2026-06-03 at 14.54.38 (1).jpeg'
 
 const challenges = [
   {
@@ -33,7 +34,7 @@ const challenges = [
     number: '05',
     title: 'Launch Your Mission',
     description: 'We defined and presented our final mission: a platform that helps young people build skills, connect to mentorship, and grow through sustainable agriculture.',
-    photo: challengePhoto3,
+    photo: challengePhoto4,
   },
 ]
 

@@ -47,12 +47,7 @@ export default function Footer() {
             >
               Instagram
             </a>
-            <a
-              href="#"
-              className="transition hover:text-[#39FF6A] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF6A] focus-visible:ring-offset-2 focus-visible:ring-offset-[#F6F7F4]"
-            >
-              Facebook
-            </a>
+
           </div>
         </div>
       </footer>
