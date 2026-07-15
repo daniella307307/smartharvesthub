@@ -98,17 +98,6 @@ export function Hero() {
                 </div>
               ))}
             </div>
-            <div className="mt-6 grid gap-4 sm:grid-cols-[1.1fr_0.9fr]">
-              <div className="overflow-hidden rounded-[1.5rem] border border-[#D9E8D9]/70 bg-[#F4F5F1]">
-                <img src={heroVisual} alt="SmartHarvest farmers" className="h-full w-full object-cover" />
-              </div>
-              <div className="overflow-hidden rounded-[1.5rem] border border-[#D9E8D9]/70 bg-[#F4F5F1]">
-                <img src={heroField} alt="Youth farming in Gasabo" className="h-full w-full object-cover" />
-              </div>
-            </div>
-            <div className="mt-6 overflow-hidden rounded-[1.5rem] border border-[#D9E8D9]/70 bg-[#000] p-1 aspect-[16/9]">
-              <YouTubeEmbed videoId="BFy9EKQCVPc" title="Discover Africa" />
-            </div>
           </motion.div>
         </motion.div>
       </div>
