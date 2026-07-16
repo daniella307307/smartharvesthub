@@ -5,7 +5,7 @@ import teamPhoto2 from '../assets/images/davud.jpeg'
 import teamPhoto3 from '../assets/images/ismael.jpeg'
 import teamphoto4 from '../assets/images/daniella.jpeg'
 import teamPhoto5 from '../assets/images/BELINDA.png'
-import teamPhoto6 from '../assets/images/WhatsApp Image 2026-06-18 at 01.58.43.jpeg'
+import teamPhoto6 from '../assets/images/WhatsApp Image 2026-07-16 at 10.47.48.jpeg'
 
 
 const team = [
